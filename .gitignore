@@ -1,0 +1,12 @@
+# Data is excluded until redistribution rights are confirmed.
+data/*.csv
+
+# KNIME and local runtime files
+.knime/
+*.log
+*.tmp
+~$*
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db

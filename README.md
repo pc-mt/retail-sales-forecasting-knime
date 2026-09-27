@@ -123,4 +123,3 @@ Academic group project by Kana Tezo, Moumani Tchokote, Pokem Tezo, and Mamo Tiot
 ## Data and licensing
 
 The CSV files are intentionally excluded from this public repository because their redistribution rights were not included with the submitted archive. This repository therefore contains the workflows and documentation only. No licence is granted for the project materials unless the authors add one explicitly.
-
